@@ -10,3 +10,4 @@ int main()
 	cout<<round(3.5)<<endl; //4
 	return 0;
 }
+//https://www.w3schools.com/cpp/cpp_math.asp
