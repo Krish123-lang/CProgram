@@ -47,3 +47,17 @@ int main()
 
 	return 0;
 }
+
+/*
+Plus Equals: 15
+Minus Equals: 11
+Multiplication Equals: 44
+Division Equals: 11
+Modulus Equals: 3
+AND Equals: 0
+OR Equals: 4
+XOR Equals: 0
+OR Equals: 4
+>> Equals: 0
+>> Equals: 0
+*/
